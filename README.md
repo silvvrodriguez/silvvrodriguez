@@ -1,4 +1,4 @@
-## Hi, I'm Silvana 👋
+<h1 align="left"><b>Hi , I'm Silvana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 `Product Designer (UI/UX) & Frontend Developer Jr`
 
