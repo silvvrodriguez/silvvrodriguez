@@ -9,7 +9,7 @@ I enjoy turning design ideas into working interfaces through code.
 
 ---
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
