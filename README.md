@@ -2,37 +2,36 @@
 
 `Software Developer & Product Designer (UI/UX)`
 
+I build digital products by combining software development and design. I enjoy being involved throughout the process — from turning an idea into a clear user experience to building it into a functional product.
 
-I work across the full development lifecycle, combining design, frontend development, application logic, and basic backend integrations to build clear, functional, and product-oriented applications.
+I'm especially interested in frontend and full-stack development, with attention to both user experience and well-structured, maintainable software.
 
-My experience includes developing web and desktop applications, translating design concepts into working interfaces, and supporting features with data handling and database interactions.
-
-I focus on usability, structure, and technical clarity, aiming to deliver solutions that balance user needs, visual coherence, and maintainable code.
-
-I enjoy working at the intersection of design and development, turning ideas into functional products through thoughtful design decisions and practical engineering.
+I enjoy learning by building, experimenting with new ideas, and creating solutions to real-world problems.
 
 ---
 
-### 💻 Development
+### Development
 <p>
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
+  <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </p>
 
-### 🎨 Design & Visual Tools
+### Design
 <p>
   <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-  <img alt="AutoCAD" width="30px" src="https://skillicons.dev/icons?i=autocad" />
 </p>
